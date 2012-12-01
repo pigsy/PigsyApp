@@ -1,0 +1,204 @@
+/* Login */
+"PigsyLoginBlurb" = "PIGSY MAKES IT EASY\nTO SHARE CARDS AND\nCASH WITH YOUR FRIENDS";
+"LoginWithFacebook" = "Login with Facebook";
+"LoggingInStatus" = "Logging in..";
+"LinkingAccountStatus" = "Linking Account..";
+"DoneStatus" = "Done!";
+"PigsyTermsBlurb" = "* by logging in you agree to our terms";
+
+/* Paypal input */
+"PaypalInfoEmpty" = "Paypal Info Empty!";
+"EnterAValidEmail" = "Enter a valid email!";
+"EnterAValidPhoneNumber" = "Enter a valid phone number!";
+"IWillAddItLater" = "I'll add it later";
+"Continue" = "Continue";
+"LinkingAccount" = "Linking Account..";
+
+/* Home */
+"SendAPigsyWith" = "SEND A PIGSY WITH";
+"Love" = "LOVE";
+"SlideForCash" = "Slide for cash";
+"WhoAreYouSendingItTo" = "WHO ARE YOU\nSENDING IT TO?";
+"TapTheCircle" = "Tap the circle";
+"SendingPigsyVia" = "sending Pigsy via %@";
+"PigsySlogan" = "Share the love";
+"ServiceCharge" = "Service Charge";
+"PigsyUser" = "Pigsy User";
+"PayPalTransfer" =  "PayPal Transfer";
+"PayPalUserInfoIncompleteErrorMsg" = "Sorry! There was an issue getting this users PayPal info.";
+"PleaseSelectARecipientToSendTo" = "Please select a recipient to send a Pigsy to!";
+
+/* Connect with PayPal popup */
+"ConnectPaypalPopupTitle" = "OH DEAR, LOOKS LIKE\nYOUR PAYPAL ACCOUNT\nIS NOT CONNECTED";
+"ConnectPaypalPopupSubtitle" = "Connect with Paypal\nso you can start sending\ncash through Pigsy now!";
+"SendingCash" = "Sending Cash..";
+
+/* Profile Back View */
+"YourPigsyStamps" = "Your Pigsy Stamps";
+"Buy" = "Buy";
+"EarnPigsyStampsProfileBlurb" = "Earn Pigsy stamps by\nsending cash in your cards";
+"SentPigsies" = "Sent Pigsies";
+"ReceivedPigsies" = "Received Pigsies";
+"LoggingOutStatus" = "Logging Out...";
+"ErrorLoggingOut" = "Error logging out!";
+"Edit" = "Edit";
+"ErrorUpdatingSettings" = "Error updating settings!";
+
+/* Settings */
+"Notifications" = "Notifications";
+"Sounds" = "Sounds";
+"Info" = "Info";
+
+/* Card List View */
+"Sent" = "Sent";
+"Received" = "Received";
+"AudioInside" = "audio\ninside";
+
+/* Purchase Stamps */
+"BuyStamps" = "Buy Stamps";
+"BuyStampsTitleBlurb" = "BUY STAMPS, SEND PIGSIES,\nSHARE THE LOVE";
+"InAppPurchasesApple" = "Payments handled by Apple in app purchases";
+"Buy" = "Buy";
+"Stamp" = "Stamp";
+"Stamps" = "Stamps";
+"InAppPurchasesDisabled" = "In-App purchasing disabled!";
+
+/* Create Card */
+"AreYouSureDiscardCard" = "Are you sure you want to discard this Pigsy card?";
+"Discard" = "Discard";
+"CardDefaultTextWithNames" = "To %@,\n\nHappy Birthday!!\n\nFrom,\n%@";
+"SaveImage" = "Save Image";
+"RenderingStatus" = "Rendering..";
+"BGStyle" = "BG Style";
+"BGColor" = "BG Color";
+"FontColor" = "Font Color";
+"FontStyle" = "Font Style";
+"FontSize" = "Font Size";
+
+/* Card Preview */
+"SwipeForInside" = "Swipe for inside";
+"Create" = "Create";
+"CreatingStatusMsg" = "Creating...";
+"NotEnoughStampsErrorMessage" = "Sorry! You don't have enough stamps to create this card! Please buy some more stamps!";
+"ThisPigsyWillBeSentTo" = "This Pigsy will be sent to";
+"ViaPlatform" = "via %@";
+"RequiredForSending" = "Required for sending";
+"SendPigsy" = "Send Pigsy";
+
+/* Audio */
+"SelectAudio" = "Select Audio";
+"AddingAudioCosts1Stamp" = "ADDING AUDIO TO CARDS\nCOSTS 1 STAMP";
+
+/* Card List View */
+"LoadingStatusMsg" = "Loading...";
+"SorryNoCardsInList" = "Sorry! No cards!";
+"ToName" = "To %@";
+"FromName" = "From %@";
+"ViaEmailToPerson" = "via email to %@";
+"ViaSMSToPerson" = "via sms to %@";
+
+/* Card sent/received view */
+"CardShareOptions" = "Share this Pigsy Card";
+"Email" = "Email";
+"SMS" = "SMS";
+"Safari" = "Safari";
+
+/* Summary Modal */
+"YourPigsyHasBeenCreated" = "Your Pigsy has\nbeen created!";
+"YouHaveNStampsLeft" = "You have %@ stamps left";
+"SummaryBottomLabelMsg" = "you can view this Pigsy from\nsent items in your profile";
+
+/* Edit Text */
+"EditText" = "Edit Text";
+
+/* Webpage */
+"ErrorLoadingWebpage" = "Error loading webpage";
+
+/* Network Issue */
+"ConnectionFailed" = "Connection failed";
+"NoInternetConnection" = "No internet connection!";
+
+/* Searching */
+"SearchResults" = "Search Results";
+"ErrorSearching" =  "Error searching";
+
+/* Social / Facebook Message */
+"ErrorConnectingWithFacebook" = "There was an error connecting with Facebbok! Try logging out and try again!";
+"ErrorLoggingIntoFacebook" = "Error logging into Facebook!";
+"ErrorPostingMessageToFacebook" = "Error posting message!";
+"PostedOnFacebook" = "Posted on Facebook!";
+
+"FacebookPostCardMessage" = "Check out this card i created for you using Pigsy %@";
+"EmailPostCardMessage" = "Check out this Pigsy card I made for you<br><br><a href='%@'>Click to see your Pigsy card</a><br>";
+"SMSPostCardMessage" = "Check out this Pigsy card I made for you\n%@";
+
+/* Social */
+"PigsyCard" = "Pigsy Card";
+
+/* Profile */
+"AreYouSureWantToLogout" = "Are you sure you want to logout?";
+
+/* User Search */
+"AddAFriend" = "Add a Friend";
+"AreYouSureWantToUpdateFriendsList" = "Are you sure you want to update your friends list? This may take a few minutes.";
+"WhoLikeToSendPigsyTo" = "WHO WOULD YOU LIKE TO\nSEND YOUR PIGSY TO?";
+"SorryNoFriendsToDisplay" = "Sorry, no friends to display!";
+"UpdatingStatus" = "Updating...";
+"SearchStatus" = "Search...";
+
+/* Notification Error */
+"ErrorRegisteringForNotifications" = "Error registering for notifications";
+
+/* Generic */
+"Cancel" = "Cancel";
+"Delete" = "Delete";
+"Edit" = "Edit";
+"Repost" = "Repost";
+"Report As Spam" = "Report As Spam";
+"Done" = "Done";
+"Discard" = "Discard";
+"Logout" = "Logout";
+"EditProfile" = "Edit Profile";
+"Settings" = "Settings";
+"Connect" = "Connect";
+"Invite" = "Invite";
+"Ok" = "Ok";
+"Finish" = "Finish";
+"Update" = "Update";
+"Yes" = "Yes";
+"No" = "No";
+
+/* Camera */
+"ChooseAPhotoSource" = "Choose a Photo Source";
+"Camera" =  "Camera";
+"PhotoLibrary" = "Photo Library";
+"NoCameraInputAvailable" = "You don't have a camera availble!";
+"ErrorUploadingImage" = "Error uploading image!";
+
+/* Notification Setting */
+"NotificationSettingsChanged" = "Notifications setting changed!";
+"ErrorUpdatingNotificationSetting" = "Error updating notification setting!";
+
+/* Email and SMS unsupported */
+"SorryDeviceNotSupportEmails" = "Sorry! Your device does not support sending emails!";
+"SorryDeviceNotSupportSMS" = "Sorry! Your device does not support sending SMS messages!";
+
+/* Over capacity */
+"PigsyOverCapacity" = "Pigsy is over capacity at the moment!\nPlease check back later!";
+
+/* Memory Warning */
+"MemoryWarningMessage" = "Got a memory warning! try closing some of your apps!";
+
+/* Dates */
+"TodayAt" = "Hoje às %@";
+"YesterdayAt" = "Ontem às %@";
+"At" = "às";
+"On" = "na";
+"1MonthAgo" = "1 mês atràs";
+"NMonthsAgo" = "%d  mêses atràs";
+"1DayAgo" = "1 dia atrás";
+"NDaysAgo" = "%d dias atrás";
+"1HourAgo" = "1 hora atrás";
+"NHoursAgo" = "%d horas atrás";
+"AMomentAgo" = "a um momento atrás";
+"NMinutesAgo" = "%d minutos atrás";
