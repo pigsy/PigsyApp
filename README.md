@@ -2,7 +2,9 @@ PigsyApp
 ========
 
 Pigsy - Share The Love
+
 http://www.pigsy.me
+
 pigsyapp@gmail.com
 
 Help the Pigsy app by filing bugs, helping with localizations or just create some feature requests!
