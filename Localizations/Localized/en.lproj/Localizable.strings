@@ -123,7 +123,7 @@
 "ErrorSearching" =  "Error searching";
 
 /* Social / Facebook Message */
-"ErrorConnectingWithFacebook" = "There was an error connecting with Facebbok! Try logging out and try again!";
+"ErrorConnectingWithFacebook" = "There was an error connecting with Facebook! Try logging out and try again!";
 "ErrorLoggingIntoFacebook" = "Error logging into Facebook!";
 "ErrorPostingMessageToFacebook" = "Error posting message!";
 "PostedOnFacebook" = "Posted on Facebook!";
