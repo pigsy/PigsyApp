@@ -7,7 +7,7 @@
 "PigsyTermsBlurb" = "* door in te loggen ga je akkoord met onze voorwaarden";
 
 /* Paypal input */
-"PaypalInfoEmpty" = "Paypal Info Leeg!";
+"PaypalInfoEmpty" = "Paypal info leeg!";
 "EnterAValidEmail" = "Vul een geldig adres in!";
 "EnterAValidPhoneNumber" = "Vul een geldig telefoonnummer in!";
 "IWillAddItLater" = "Voeg ik later toe";
@@ -17,188 +17,188 @@
 /* Home */
 "SendAPigsyWith" = "STUUR EEN PIGSY MET";
 "Love" = "LIEFDE";
-"SlideForCash" = "Slide for cash";
+"SlideForCash" = "Schuif voor geld";
 "WhoAreYouSendingItTo" = "NAAR WIE\nSTUUR JE HET?";
-"TapTheCircle" = "Tap de cirkel";
-"SendingPigsyVia" = "sending Pigsy via %@";
+"TapTheCircle" = "Tik op de cirkel";
+"SendingPigsyVia" = "verstuur Pigsy via %@";
 "PigsySlogan" = "Deel de liefde";
 "ServiceCharge" = "Service kosten";
 "PigsyUser" = "Pigsy gebruiker";
 "PayPalTransfer" =  "PayPal overboeking";
 "PayPalUserInfoIncompleteErrorMsg" = "Sorry! Er was een probleem met het ophalen van de PayPal gevens van deze gebruiker.";
-"PleaseSelectARecipientToSendTo" = "Selecteer een ontvanger om een Pigsy naar toe te sturen!";
+"PleaseSelectARecipientToSendTo" = "Selecteer een ontvanger om een Pigsy kaart aan te versturen!";
 
 /* Connect with PayPal popup */
-"ConnectPaypalPopupTitle" = "OH DEAR, LOOKS LIKE\nYOUR PAYPAL ACCOUNT\nIS NOT CONNECTED";
-"ConnectPaypalPopupSubtitle" = "Connect with Paypal\nso you can start sending\ncash through Pigsy now!";
-"SendingCash" = "Sending Cash..";
+"ConnectPaypalPopupTitle" = "OEPS, HET LIJKT ALSOF\nJOUW PAYPAL ACCOUNT\nNIET IS GEKOPPELD";
+"ConnectPaypalPopupSubtitle" = "Koppel Paypal\nzodat je nu kunt beginnen met het versturen\nvan geld via Pigsy!";
+"SendingCash" = "verstuur geld..";
 
 /* Profile Back View */
-"YourPigsyStamps" = "Your Pigsy Stamps";
-"Buy" = "Buy";
-"EarnPigsyStampsProfileBlurb" = "Earn Pigsy stamps by\nsending cash in your cards";
-"SentPigsies" = "Sent Pigsies";
-"ReceivedPigsies" = "Received Pigsies";
-"LoggingOutStatus" = "Logging Out...";
-"ErrorLoggingOut" = "Error logging out!";
-"Edit" = "Edit";
-"ErrorUpdatingSettings" = "Error updating settings!";
+"YourPigsyStamps" = "Jouw Pigsy zegels";
+"Buy" = "Koop";
+"EarnPigsyStampsProfileBlurb" = "Verdien Pigsy zegels door\ngeld te versturen met je kaarten";
+"SentPigsies" = "Verzonden Pigsies";
+"ReceivedPigsies" = "Ontvagen Pigsies";
+"LoggingOutStatus" = "Bezig met uitloggen...";
+"ErrorLoggingOut" = "Fout bij het uitloggen!";
+"Edit" = "Bewerk";
+"ErrorUpdatingSettings" = "Fout bij het bijwerken van de instellingen!";
 
 /* Settings */
-"Notifications" = "Notifications";
-"Sounds" = "Sounds";
+"Notifications" = "Notificaties";
+"Sounds" = "Geluiden";
 "Info" = "Info";
 
 /* Card List View */
-"Sent" = "Sent";
-"Received" = "Received";
-"AudioInside" = "audio\ninside";
+"Sent" = "Verzonden";
+"Received" = "Ontvangen";
+"AudioInside" = "geluid\nbinnenin";
 
 /* Purchase Stamps */
-"BuyStamps" = "Buy Stamps";
-"BuyStampsTitleBlurb" = "BUY STAMPS, SEND PIGSIES,\nSHARE THE LOVE";
-"InAppPurchasesApple" = "Payments handled by Apple in app purchases";
-"Buy" = "Buy";
-"Stamp" = "Stamp";
-"Stamps" = "Stamps";
-"InAppPurchasesDisabled" = "In-App purchasing disabled!";
+"BuyStamps" = "Koop zegels";
+"BuyStampsTitleBlurb" = "KOOP ZEGELS, VERSTUUR PIGSIES,\nDEEL DE LIEFDE";
+"InAppPurchasesApple" = "Betalingen worden afgehandeld via Apple in-app aankopen";
+"Buy" = "Koop";
+"Stamp" = "Zegel";
+"Stamps" = "Zegels";
+"InAppPurchasesDisabled" = "In-App aankopen uitgeschakeld!";
 
 /* Create Card */
-"AreYouSureDiscardCard" = "Are you sure you want to discard this Pigsy card?";
-"Discard" = "Discard";
-"CardDefaultTextWithNames" = "To %@,\n\nHappy Birthday!!\n\nFrom,\n%@";
-"SaveImage" = "Save Image";
-"RenderingStatus" = "Rendering..";
-"BGStyle" = "BG Style";
-"BGColor" = "BG Color";
-"FontColor" = "Font Color";
-"FontStyle" = "Font Style";
-"FontSize" = "Font Size";
+"AreYouSureDiscardCard" = "Weet je zeker dat je deze Pigsy kaart wilt verwijderen?";
+"Discard" = "Verwijderen";
+"CardDefaultTextWithNames" = "Aan %@,\n\nVan harte gefeliciteerd!!\n\nVan,\n%@";
+"SaveImage" = "Bewaar afbeelding";
+"RenderingStatus" = "Genereren..";
+"BGStyle" = "Achtergrond stijl";
+"BGColor" = "Achtergrond kleur";
+"FontColor" = "Lettertype kleur";
+"FontStyle" = "Lettertype stijl";
+"FontSize" = "Lettertype grootte";
 
 /* Card Preview */
-"SwipeForInside" = "Swipe for inside";
-"Create" = "Create";
-"CreatingStatusMsg" = "Creating...";
-"NotEnoughStampsErrorMessage" = "Sorry! You don't have enough stamps to create this card! Please buy some more stamps!";
-"ThisPigsyWillBeSentTo" = "This Pigsy will be sent to";
+"SwipeForInside" = "Schuif voor binnenkant";
+"Create" = "Maak";
+"CreatingStatusMsg" = "Bezig met maken...";
+"NotEnoughStampsErrorMessage" = "Sorry! Je hebt onvoldoende zegels voor het maken van deze kaart! Koop alsjeblieft meer zegels!";
+"ThisPigsyWillBeSentTo" = "Deze Pigsy zal worden verzonden aan";
 "ViaPlatform" = "via %@";
-"RequiredForSending" = "Required for sending";
-"SendPigsy" = "Send Pigsy";
+"RequiredForSending" = "Vereist om te versturen";
+"SendPigsy" = "Verstuur Pigsy";
 
 /* Audio */
-"SelectAudio" = "Select Audio";
-"AddingAudioCosts1Stamp" = "ADDING AUDIO TO CARDS\nCOSTS 1 STAMP";
+"SelectAudio" = "Selecteer geluid";
+"AddingAudioCosts1Stamp" = "TOEVOEGEN VAN GELUID AAN KAARTEN\nKOST 1 ZEGEL";
 
 /* Card List View */
-"LoadingStatusMsg" = "Loading...";
-"SorryNoCardsInList" = "Sorry! No cards!";
-"ToName" = "To %@";
-"FromName" = "From %@";
-"ViaEmailToPerson" = "via email to %@";
-"ViaSMSToPerson" = "via sms to %@";
+"LoadingStatusMsg" = "Bezig met laden...";
+"SorryNoCardsInList" = "Sorry! Geen kaarten!";
+"ToName" = "Aan %@";
+"FromName" = "Van %@";
+"ViaEmailToPerson" = "via email aan %@";
+"ViaSMSToPerson" = "via sms aan %@";
 
 /* Card sent/received view */
-"CardShareOptions" = "Share this Pigsy Card";
+"CardShareOptions" = "Deel deze Pigsy kaart";
 "Email" = "Email";
-"SMS" = "SMS";
+"SMS" = "sms";
 "Safari" = "Safari";
 
 /* Summary Modal */
-"YourPigsyHasBeenCreated" = "Your Pigsy has\nbeen created!";
-"YouHaveNStampsLeft" = "You have %@ stamps left";
-"SummaryBottomLabelMsg" = "you can view this Pigsy from\nsent items in your profile";
+"YourPigsyHasBeenCreated" = "Jouw Pigsy is\naangemaakt!";
+"YouHaveNStampsLeft" = "Je hebt nog %@ zegels over";
+"SummaryBottomLabelMsg" = "je kunt deze Pigsy bekijken in\nje verzonden items in je profiel";
 
 /* Edit Text */
-"EditText" = "Edit Text";
+"EditText" = "Pas tekst aan";
 
 /* Webpage */
-"ErrorLoadingWebpage" = "Error loading webpage";
+"ErrorLoadingWebpage" = "Fout tijdens laden web pagina";
 
 /* Network Issue */
-"ConnectionFailed" = "Connection failed";
-"NoInternetConnection" = "No internet connection!";
+"ConnectionFailed" = "Verbinding mislukt";
+"NoInternetConnection" = "Geen internetverbinding!";
 
 /* Searching */
-"SearchResults" = "Search Results";
-"ErrorSearching" =  "Error searching";
+"SearchResults" = "Zoek resultaten";
+"ErrorSearching" =  "Fout tijdens zoeken";
 
 /* Social / Facebook Message */
-"ErrorConnectingWithFacebook" = "There was an error connecting with Facebbok! Try logging out and try again!";
-"ErrorLoggingIntoFacebook" = "Error logging into Facebook!";
-"ErrorPostingMessageToFacebook" = "Error posting message!";
-"PostedOnFacebook" = "Posted on Facebook!";
+"ErrorConnectingWithFacebook" = "Er was een fout bij het verbinden met Facebook! Log uit en probeer het opnieuw!";
+"ErrorLoggingIntoFacebook" = "Fout bij het inloggen op Facebook!";
+"ErrorPostingMessageToFacebook" = "Fout bij het plaatsen van het bericht!";
+"PostedOnFacebook" = "Geplaatst op Facebook!";
 
-"FacebookPostCardMessage" = "Check out this card i created for you using Pigsy %@";
-"EmailPostCardMessage" = "Check out this Pigsy card I made for you<br><br><a href='%@'>Click to see your Pigsy card</a><br>";
-"SMSPostCardMessage" = "Check out this Pigsy card I made for you\n%@";
+"FacebookPostCardMessage" = "Bekijk deze kaart die ik via Pigsy voor jou heb gemaakt %@";
+"EmailPostCardMessage" = "Bekijk deze Pigsy kaart die ik voor je heb gemaakt<br><br><a href='%@'>Klik hier om je Pigsy kaart te bekijken</a><br>";
+"SMSPostCardMessage" = "Bekijk deze Pigsy kaart die ik voor je heb gemaakt\n%@";
 
 /* Social */
-"PigsyCard" = "Pigsy Card";
+"PigsyCard" = "Pigsy kaart";
 
 /* Profile */
-"AreYouSureWantToLogout" = "Are you sure you want to logout?";
+"AreYouSureWantToLogout" = "Weet je zeker dat je wilt uitloggen?";
 
 /* User Search */
-"AddAFriend" = "Add a Friend";
-"AreYouSureWantToUpdateFriendsList" = "Are you sure you want to update your friends list? This may take a few minutes.";
-"WhoLikeToSendPigsyTo" = "WHO WOULD YOU LIKE TO\nSEND YOUR PIGSY TO?";
-"SorryNoFriendsToDisplay" = "Sorry, no friends to display!";
-"UpdatingStatus" = "Updating...";
-"SearchStatus" = "Search...";
+"AddAFriend" = "Voeg een vriend toe";
+"AreYouSureWantToUpdateFriendsList" = "Weet je zeker dat je je vriendenlijst wilt bijwerken? Dit kan een paar minuten duren.";
+"WhoLikeToSendPigsyTo" = "NAAR WIE ZOU JE EEN\nPIGSY WILLEN STUREN?";
+"SorryNoFriendsToDisplay" = "Sorry, geen vrienden om weer te geven!";
+"UpdatingStatus" = "Bezig met bijwerken...";
+"SearchStatus" = "Bezig met zoeken...";
 
 /* Notification Error */
 "ErrorRegisteringForNotifications" = "Error registering for notifications";
 
 /* Generic */
-"Cancel" = "Cancel";
-"Delete" = "Delete";
-"Edit" = "Edit";
+"Cancel" = "Annuleren";
+"Delete" = "Verwijderen";
+"Edit" = "Bewerken";
 "Repost" = "Repost";
-"Report As Spam" = "Report As Spam";
-"Done" = "Done";
-"Discard" = "Discard";
-"Logout" = "Logout";
-"EditProfile" = "Edit Profile";
-"Settings" = "Settings";
-"Connect" = "Connect";
-"Invite" = "Invite";
-"Ok" = "Ok";
-"Finish" = "Finish";
-"Update" = "Update";
-"Yes" = "Yes";
-"No" = "No";
+"Report As Spam" = "Rapporteer als spam";
+"Done" = "Klaar";
+"Discard" = "Verwijderen";
+"Logout" = "Uitloggen";
+"EditProfile" = "Bewerk profiel";
+"Settings" = "Instellingen";
+"Connect" = "Verbind";
+"Invite" = "Uitnodigen";
+"Ok" = "Oke";
+"Finish" = "Afronden";
+"Update" = "Bijwerekn";
+"Yes" = "Ja";
+"No" = "Nee";
 
 /* Camera */
-"ChooseAPhotoSource" = "Choose a Photo Source";
+"ChooseAPhotoSource" = "Selecteer een foto bron";
 "Camera" =  "Camera";
-"PhotoLibrary" = "Photo Library";
-"NoCameraInputAvailable" = "You don't have a camera availble!";
-"ErrorUploadingImage" = "Error uploading image!";
+"PhotoLibrary" = "Foto bibliotheek";
+"NoCameraInputAvailable" = "Er is geen camera beschikbaar!";
+"ErrorUploadingImage" = "Fout bij uploaden van de afbeelding!";
 
 /* Notification Setting */
-"NotificationSettingsChanged" = "Notifications setting changed!";
-"ErrorUpdatingNotificationSetting" = "Error updating notification setting!";
+"NotificationSettingsChanged" = "Notificatie instellingen veranderd!";
+"ErrorUpdatingNotificationSetting" = "Fout bij het bijwerken van de notificatie instellingen!";
 
 /* Email and SMS unsupported */
-"SorryDeviceNotSupportEmails" = "Sorry! Your device does not support sending emails!";
-"SorryDeviceNotSupportSMS" = "Sorry! Your device does not support sending SMS messages!";
+"SorryDeviceNotSupportEmails" = "Sorry! Het versturen van email wordt niet ondersteund door je apparaat!";
+"SorryDeviceNotSupportSMS" = "Sorry! Het versturen van sms berichten wordt niet ondersteund door je apparaat!";
 
 /* Over capacity */
-"PigsyOverCapacity" = "Pigsy is over capacity at the moment!\nPlease check back later!";
+"PigsyOverCapacity" = "Pigsy is momenteel niet bereikbaar!\nProbeer het later nog eens!";
 
 /* Memory Warning */
-"MemoryWarningMessage" = "Got a memory warning! try closing some of your apps!";
+"MemoryWarningMessage" = "We kregen een geheugen waarschuwing! Probeer eens een paar applicaties te sluiten!";
 
 /* Dates */
-"TodayAt" = "Today at %@";
-"YesterdayAt" = "Yesterday at %@";
-"At" = "at";
-"On" = "on";
-"1MonthAgo" = "1 month ago";
-"NMonthsAgo" = "%d months ago";
-"1DayAgo" = "1 day ago";
-"NDaysAgo" = "%d days ago";
-"1HourAgo" = "1 hour ago";
-"NHoursAgo" = "%d hours ago";
-"AMomentAgo" = "a moment ago";
-"NMinutesAgo" = "%d minutes ago";
+"TodayAt" = "Vandaag om %@";
+"YesterdayAt" = "Gisteren om %@";
+"At" = "om";
+"On" = "op";
+"1MonthAgo" = "1 maand geleden";
+"NMonthsAgo" = "%d maanden geleden";
+"1DayAgo" = "1 dag geleden";
+"NDaysAgo" = "%d dagen geleden";
+"1HourAgo" = "1 uur geleden";
+"NHoursAgo" = "%d uur geleden";
+"AMomentAgo" = "een moment geleden";
+"NMinutesAgo" = "%d minuten geleden";
